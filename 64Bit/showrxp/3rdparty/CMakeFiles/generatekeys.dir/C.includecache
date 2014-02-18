@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/AutoPanoSift.h
+config.h
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/config.h
+windows.h
+-
+pano13/filter.h
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/pano13/filter.h
+pano13/panorama.h
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/pano13/panorama.h
+pano12/filter.h
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/pano12/filter.h
+pano12/panorama.h
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/pano12/panorama.h
+math.h
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/math.h
+
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/GenerateKeys.c
+AutoPanoSift.h
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/AutoPanoSift.h
+

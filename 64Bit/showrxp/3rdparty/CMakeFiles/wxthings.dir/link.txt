@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../obj/libwxthings.a  CMakeFiles/wxthings.dir/wxthings/src/block.cpp.o CMakeFiles/wxthings.dir/wxthings/src/bmpcombo.cpp.o CMakeFiles/wxthings.dir/wxthings/src/dropdown.cpp.o CMakeFiles/wxthings.dir/wxthings/src/geometry.cpp.o CMakeFiles/wxthings.dir/wxthings/src/menubtn.cpp.o CMakeFiles/wxthings.dir/wxthings/src/optvalue.cpp.o CMakeFiles/wxthings.dir/wxthings/src/range.cpp.o CMakeFiles/wxthings.dir/wxthings/src/spinctld.cpp.o CMakeFiles/wxthings.dir/wxthings/src/toggle.cpp.o
+/usr/bin/ranlib ../obj/libwxthings.a

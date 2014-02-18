@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rainer/workspace/show3dtk/3rdparty/sparse/csparse.cc
+cstdlib
+-
+climits
+-
+cmath
+-
+cstdio
+-
+csparse.h
+/home/rainer/workspace/show3dtk/3rdparty/sparse/csparse.h
+
+/home/rainer/workspace/show3dtk/3rdparty/sparse/csparse.h
+mex.h
+/home/rainer/workspace/show3dtk/3rdparty/sparse/mex.h
+

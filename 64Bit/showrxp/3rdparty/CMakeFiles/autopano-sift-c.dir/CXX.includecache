@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/APSCpp/ANNkd_wrap.cpp
+ANN/ANN.h
+/home/rainer/workspace/3dtk-release-1.2/3rdparty/autopano-sift-c_modified/APSCpp/ANN/ANN.h
+
+3rdparty/ann_1.1.1_modified/include/ANN/ANN.h
+cmath
+-
+iostream
+-
+iomanip
+-
+cvalues
+-
+climits
+-
+cfloat
+-
+

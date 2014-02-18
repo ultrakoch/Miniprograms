@@ -1,0 +1,16 @@
+<package>
+  <description brief="convertRXP">
+     convertRXP reads a RXP-File (Riegl scanner) and converts it to an ASCII-File.
+  </description>
+  <author>Rainer Koch</author>
+  <license>GPL</license>
+  <review status="unreviewed" notes="Still under development."/>
+  <url>https://www.th-nuernberg.de</url>
+  <export>
+    <cpp cflags="-I${prefix}/3rdparty/ -I${prefix}/include -I${prefix}/3rdparty/ann_1.1.1_modified/include/ -DMAX_OPENMP_NUM_THREADS=8 -DOPENMP_NUM_THREADS=8 -DOPENMP  "
+      lflags="-Wl,-rpath,${prefix}/lib -lslam -L${prefix}/lib/ -lnewmat_s -fopenmp"/>
+  </export>
+
+</package>
+
+

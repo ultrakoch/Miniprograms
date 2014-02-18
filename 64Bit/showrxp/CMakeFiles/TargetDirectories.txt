@@ -1,0 +1,5 @@
+/home/rainer/workspace/show3dtk/3rdparty/CMakeFiles/ANN.dir
+/home/rainer/workspace/show3dtk/3rdparty/CMakeFiles/glui.dir
+/home/rainer/workspace/show3dtk/3rdparty/CMakeFiles/newmat.dir
+/home/rainer/workspace/show3dtk/CMakeFiles/show.dir
+/home/rainer/workspace/show3dtk/3rdparty/CMakeFiles/sparse.dir
